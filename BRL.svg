@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="207" height="230.112" viewBox="0 0 207 230.112">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="55.05" height="56.877" viewBox="0 0 55.05 56.877">
   <defs>
-    <filter id="Exclusion_2" x="0" y="0" width="207" height="230.112" filterUnits="userSpaceOnUse">
+    <filter id="Exclusion_2" x="0" y="0" width="55.05" height="56.877" filterUnits="userSpaceOnUse">
       <feOffset dx="7" dy="6" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="7" result="blur"/>
       <feFlood flood-opacity="0.11"/>
@@ -8,7 +8,9 @@
       <feComposite in="SourceGraphic"/>
     </filter>
   </defs>
-  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Exclusion_2)">
-    <path id="Exclusion_2-2" data-name="Exclusion 2" d="M86.41,188.112v0h0V151.384c29.454-2.085,52.527-27.184,52.527-57.142a57.87,57.87,0,0,0-7.487-28.51l33.548-17v99.556L86.412,188.111Zm-7.821,0h0L0,148.288V48.732L33.416,65.665a57.856,57.856,0,0,0-7.525,28.577c0,30.047,23.148,55.152,52.7,57.154v36.715Zm3.826-36.586c-1.274,0-2.561-.043-3.826-.129V88.555L33.416,65.665a57.62,57.62,0,0,1,5.267-7.719h0L2.423,39.822,82.1,0l46.477,23.23,33.2,16.592-35.808,17.9a57.613,57.613,0,0,1,5.49,8.012L86.412,88.555v62.829C85.085,151.478,83.74,151.525,82.415,151.525ZM38.683,57.946,82.1,79.645,125.962,57.72a56.053,56.053,0,0,0-87.279.226Z" transform="translate(14 15)" fill="#1788cb"/>
+  <g id="Group_5" data-name="Group 5" transform="translate(-164 -121.921)">
+    <g transform="matrix(1, 0, 0, 1, 164, 121.92)" filter="url(#Exclusion_2)">
+      <path id="Exclusion_2-2" data-name="Exclusion 2" d="M6.835,14.877V7l6.215-3.15v7.874L6.836,14.876Zm-.619,0h0L0,11.728V3.854L6.215,7v7.873ZM6.493,6.3h0l-6.3-3.15L6.493,0l3.676,1.837,2.625,1.312L6.493,6.3Z" transform="translate(14 15)" fill="#1788cb"/>
+    </g>
   </g>
 </svg>
